@@ -1,3 +1,4 @@
 Hola mundo \n segunda línea \n tercera línea
-segunda línea \n tercera línea
+Ten un lugar especial
+para estudiar
 tercera línea
