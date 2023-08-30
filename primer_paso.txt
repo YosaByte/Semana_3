@@ -1,0 +1,3 @@
+Hola mundo \n segunda línea \n tercera línea
+segunda línea \n tercera línea
+tercera línea
